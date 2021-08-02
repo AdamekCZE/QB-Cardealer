@@ -9,11 +9,11 @@ version '1.0'
 
 client_scripts {
     'config.lua',
-    'client/cl_main.lua',
+    'client/main.lua',
     'client/gui.lua',
 }
 
 server_scripts {
     'config.lua',
-    'server/sv_main.lua',
+    'server/main.lua',
 }
