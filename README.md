@@ -1,6 +1,5 @@
 # QB-Cardealer
-Cardealership script for qbus that requires managers to buy and hold stock to be able to sell vehicles.
-Comes with boss menu where you can hire unemployed players, promote, fire and demote employees.
+My first script I ever made, it's terribly inefficient and should not be used for a server but only to learn something from it.
 
 Installation requires creating a society (name + money) and cardealer_stock (stock + price + vehicle) tables.
 
