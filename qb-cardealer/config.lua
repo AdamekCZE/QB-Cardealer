@@ -42,27 +42,5 @@ Config.Locations = {
 }
 
 Config.Vehicles = {
-    ["Alfa Romeo"] = { "aqv","stelvio"},
-    ["Audi "] = { "audirs6tk","2015a3","q820", "r820", "rs3", "rs4avant","rs5r","rs7c8","rs62","sq72016","tts"},
-    ["Bentley"] = { "contss18","bdragon","ben17","bentaygast"},
-    ["BMW"] = { "m5e60","440i","bmci","m2","m135i","rmodx6","e46","acs8"},
-    ["Chevrolet"] = { "z2879","c7","exor","corvettezr1"},
-    ["Dodge"] = { "69charger","raid","16challenger","viper"},
-    ["Ferrari"] = { "f812","f40"},
-    ["Ford"] = { "mustang19","focusrs","f150","68mustang","fe86","fgt"},
-    ["Honda"] = { "fk8"},
-    ["Jeep"] = { "srt8b","trhawk"},
-    ["Kia"] = { "kiagt"},
-    ["Lada"] = { "lada2107"},
-    ["Lamborghini"] = { "urus","lp700r"},
-    ["Maserati"] = { "mqgts"},
-    ["Mercedes"] = { "mbw124","gt63","a45amg","c63s","cls63s","g632019","s63w222"},
-    ["Nissan"] = { "r35","s30"},
-    ["Pontiac"] = { "firebird"},
-    ["Porsche"] = { "por930","gt3rs","panamera17turbo","911turbos"},
-    ["Range Rover"] = { "rrauto"},
-    ["Rolls Royce"] = { "wraith"},
-    ["Tesla"] = { "models"},
-    ["Toyota"] = { "camry18"},
-    ["Other"] = { "vantage","esv","300srt8","bluecunt"},
+    ["Karin"] = { "futo"},
 }
